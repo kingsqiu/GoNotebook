@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [GO笔记目录及状态](README.md)
+* GO介绍
