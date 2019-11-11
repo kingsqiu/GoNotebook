@@ -1,2 +1,4 @@
-- GO语言学习笔记目录
-- 语言基础
+# Table of contents
+
+* [Initial page](README.md)
+

@@ -1,1 +1,2 @@
-# GoNotebook
+# Initial page
+
