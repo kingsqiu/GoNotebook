@@ -1,2 +1,2 @@
-# Initial page
-
+- 介绍GO
+- 基础语法
